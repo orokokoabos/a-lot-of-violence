@@ -1,4 +1,4 @@
-# Catalogue: [Browse Scripts Website](https://sawyer100.github.io/medieval-torture-and-violence-scripts/)
+# Catalogue: [Browse Scripts Website](https://sawyer100.github.io/a-lot-of-violence/)
 
 ## Universal Historical Equipment Module for JanitorAI
 
